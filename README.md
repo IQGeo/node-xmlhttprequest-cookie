@@ -16,6 +16,9 @@ the [Node-XMLHttpRequest](https://github.com/driverdan/node-XMLHttpRequest)
 module to allow it to handle HTTP Cookies, similar to what a browser
 automatically does.
 
+(Updated to depend on [Node-XMLHttpRequest](https://github.com/mjwwit/node-XMLHttpRequest), a more
+up to date fork of the original.)
+
 Installation
 ------------
 
@@ -68,6 +71,7 @@ See Also
 --------
 
 - [Node-XMLHttpRequest Extension Module](https://github.com/driverdan/node-XMLHttpRequest)
+- [Node-XMLHttpRequest Fork, xmlhttprequest-ssl on npm](https://github.com/mjwwit/node-XMLHttpRequest)
 - [XMLHttpRequest Wikipedia Information](http://en.wikipedia.org/wiki/XMLHttpRequest)
 - [XMLHttpRequest API Specification](http://www.w3.org/TR/XMLHttpRequest/)
 
